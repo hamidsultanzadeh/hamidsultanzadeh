@@ -1,15 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
 ## 📝 [My blog](https://sultanzadehh.blogspot.com/)<br>
 ## 👤 [Resume](https://resume.io/r/dTC4sLjTH)<br>
 ## 📫 How to reach me:
 ### &emsp;&emsp;&emsp;📧 Emails
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 hamid.sultanzade@gmail.com,<br>
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 hamid.sultanzade@gmail.com<br>
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 sultanzade06@gmail.com<br>
 ### &emsp;&emsp;&emsp;📫 Social<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Facebook](https://www.facebook.com/hamidsultanzadeh/),<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Instagram](https://www.instagram.com/hamidsultanzadeh/),<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [LinkedIn](https://www.linkedin.com/in/hamidsultanzadeh/),<br>
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Facebook](https://www.facebook.com/hamidsultanzadeh/)<br>
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Instagram](https://www.instagram.com/hamidsultanzadeh/)<br>
+#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [LinkedIn](https://www.linkedin.com/in/hamidsultanzadeh/)<br>
 #### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Twitter](https://twitter.com/sultanzadehh)<br>
 
 
