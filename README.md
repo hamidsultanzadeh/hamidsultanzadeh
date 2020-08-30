@@ -1,7 +1,7 @@
 # Hi there 👋
 
-## 📝 [My blog](https://sultanzadehh.blogspot.com/)<br>
-#### Articles and some problems about programming
+## 📝 My blog<br>
+#### [Articles and some problems about programming](https://sultanzadehh.blogspot.com/)
 ## 👤 [Resume](https://resume.io/r/dTC4sLjTH)<br>
 ## 📫 How to reach me:
 ### &emsp;&emsp;&emsp;📧 Emails
