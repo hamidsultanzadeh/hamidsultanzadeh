@@ -3,10 +3,10 @@
 <div> 
   <!-- My Blog section -->
   <h2> 📝 My blog </h2> 
-  <h4> <a href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
+  <h4> <a style="text-decoration: none;" href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
   
   <!-- Resume section -->
-  <h2> <a href="https://resume.io/r/dTC4sLjTH">Resume</a> </h2>
+  <h2> <a href="https://resume.io/r/dTC4sLjTH">👤 Resume</a> </h2>
   
   <!-- How to reach me section -->
   <h2> 📫 How to reach me : </h2>
@@ -29,6 +29,12 @@
     <a style="text-decoration: none; padding-right: 10px;" href="mailto: hamid.sultanzadeh@gmail.com"> 
       <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/gmail.svg">
     </a>
+  </p>
+  
+  <h2> 📈 Stats </h2>
+  <p align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=hamidsultanzadeh&count_private=true&show_icons=true"><br>
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidsultanzadeh&langs_count=10&layout=compact">
   </p>
 </div>
 
