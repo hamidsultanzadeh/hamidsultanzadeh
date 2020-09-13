@@ -1,17 +1,36 @@
 # Hi there 👋
 
-## 📝 My blog<br>
-#### [Articles and some problems about programming](https://sultanzadehh.blogspot.com/)
-## 👤 [Resume](https://resume.io/r/dTC4sLjTH)<br>
-## 📫 How to reach me:
-### &emsp;&emsp;&emsp;📧 Emails
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 hamid.sultanzadeh@gmail.com<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 sultanzade06@gmail.com<br>
-### &emsp;&emsp;&emsp;📫 Social<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Facebook](https://www.facebook.com/hamidsultanzadeh/)<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Instagram](https://www.instagram.com/hamidsultanzadeh/)<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [LinkedIn](https://www.linkedin.com/in/hamidsultanzadeh/)<br>
-#### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;🔶 [Twitter](https://twitter.com/sultanzadehh)<br>
+<div> 
+  <!-- My Blog section -->
+  <h2> 📝 My blog </h2> 
+  <h4> <a href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
+  
+  <!-- Resume section -->
+  <h2> <a href="https://resume.io/r/dTC4sLjTH">Resume</a> </h2>
+  
+  <!-- How to reach me section -->
+  <h2> 📫 How to reach me : </h2>
+  <p align="center">
+    <a style="text-decoration: none; padding-right: 10px;" href="https://www.facebook.com/hamidsultanzadeh/"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/facebook.svg">
+    </a>
+    <a style="text-decoration: none; padding-right: 10px;" href="https://www.instagram.com/hamidsultanzadeh/"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/instagram.svg">
+    </a>
+    <a style="text-decoration: none; padding-right: 10px;" href="https://www.linkedin.com/in/hamidsultanzadeh/"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/linkedin.svg">
+    </a>
+    <a style="text-decoration: none; padding-right: 10px;" href="https://twitter.com/sultanzadehh"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/twitter.svg">
+    </a>
+    <a style="text-decoration: none; padding-right: 10px;" href="https://t.me/hamidsultanzadeh"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/telegram.svg">
+    </a>
+    <a style="text-decoration: none; padding-right: 10px;" href="mailto: hamid.sultanzadeh@gmail.com"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/gmail.svg">
+    </a>
+  </p>
+</div>
 
 
 <!--
