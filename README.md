@@ -20,7 +20,7 @@
     <a style="text-decoration: none; padding-right: 10px;" href="https://www.linkedin.com/in/hamidsultanzadeh/"> 
       <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/linkedin.svg">
     </a>
-    <a style="text-decoration: none; padding-right: 10px;" href="https://twitter.com/sultanzadehh"> 
+    <a style="text-decoration: none; padding-right: 10px;" href="https://twitter.com/hamiddev"> 
       <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/twitter.svg">
     </a>
     <a style="text-decoration: none; padding-right: 10px;" href="https://t.me/hamidsultanzadeh"> 
