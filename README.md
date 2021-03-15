@@ -6,7 +6,7 @@
   <h4> <a style="text-decoration: none;" href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
   
   <!-- Resume section -->
-  <h2> <a href="https://resume.io/r/dTC4sLjTH">👤 Resume</a> </h2>
+  <h2> <a href="https://hamidsultanzadeh.github.io/">👤 Resume</a> </h2>
   
   <!-- How to reach me section -->
   <h2> 📫 How to reach me : </h2>
