@@ -2,7 +2,7 @@
 
 <div> 
   <!-- My Blog section -->
-  <h2> 📝 My blog </h2> 
+  <h2> 📝 My blog and projects </h2> 
   <h4> <a style="text-decoration: none;" href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
   <h4> <a style="text-decoration: none;" href="https://github.com/webperside/">My Projects and Examples</a> </h4>
   
