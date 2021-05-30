@@ -2,10 +2,9 @@
 
 <div> 
   <!-- My Blog section -->
-  <h2> 📝 My blogs </h2> 
-  <h4> <a style="text-decoration: none;" href="https://sultanzadehh.blogspot.com/">Articles and some problems about programming</a> </h4>
+  <h2> <a target="_blank" style="text-decoration: none;" href="https://sultanzadehh.blogspot.com/">📝 Blog</a> </h2> 
   
-  <h2> <a style="text-decoration: none;" href="https://github.com/webperside/">📁 My Projects and Examples</a> </h4>
+  <h2> <a target="_blank" style="text-decoration: none;" href="https://github.com/webperside/">📁 Projects and Examples</a> </h4>
   <!-- Resume section -->
   <h2> <a target="_blank" href="https://hamidsultanzadeh.github.io/">👤 Resume</a> </h2>
   
