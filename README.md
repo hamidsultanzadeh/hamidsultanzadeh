@@ -29,6 +29,14 @@
     <a style="text-decoration: none; padding-right: 10px;" href="mailto: hamid.sultanzadeh@gmail.com"> 
       <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/gmail.svg">
     </a>
+  </p>
+  
+  <h2> ⚡ Programming Platforms </h2>
+  <p align="center">
+    <a style="text-decoration: none; padding-right: 10px;" href="https://leetcode.com/sultanzadeh/"> 
+      <img width="50" height="50" src="https://github.com/hamidsultanzadeh/hamidsultanzadeh/blob/master/files/leetcode.png">
+    </a>
+  </p>
 </div>
 
 
